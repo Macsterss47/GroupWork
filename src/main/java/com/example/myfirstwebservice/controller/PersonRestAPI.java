@@ -50,7 +50,7 @@ public class PersonRestAPI {
 	@PutMapping("/person")	
 	public Person updatePersonInfo(@RequestBody Person person) throws Exception {
 		return service.updatePersonInfo(person);
-	} 
+	} //comment
 	
 	//http://localhost:8080/record/person?id={person.id}
 	@DeleteMapping("/person")	
