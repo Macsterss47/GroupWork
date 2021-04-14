@@ -1,0 +1,7 @@
+com.example.myfirstwebservice
+com.example.myfirstwebservice.controller
+com.example.myfirstwebservice.dao
+com.example.myfirstwebservice.entity
+com.example.myfirstwebservice.repo
+com.example.myfirstwebservice.service
+execption
